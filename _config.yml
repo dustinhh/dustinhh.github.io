@@ -39,7 +39,7 @@ google_analytics: UA-127035813-1 # out your google-analytics code
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Includes & excludes
 include: ['_pages']
