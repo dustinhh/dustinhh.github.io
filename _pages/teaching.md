@@ -14,4 +14,5 @@ I've taught the following courses at the undergraduate level:
 || Principles of Microeconomics| sp2016                                            ||
 
 
+
 (f = fall semester, sp = spring semester, su = summer semester)
