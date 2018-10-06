@@ -5,8 +5,7 @@ title: teaching
 description: Teaching Experience
 ---
 
-I've taught the following courses at the undergraduate level:
-&nbsp;
+I've taught the following courses at the undergraduate level:\n\n\n\n\n
 
 | Course                       | Semester(s)                                         |
 |------------------------------|-----------------------------------------------------|
@@ -14,5 +13,5 @@ I've taught the following courses at the undergraduate level:
 | International Economics      | su2017, su2018                                      |
 | Principles of Microeconomics | sp2016                                              |
 
-&nbsp;
+\n\n
 (f = fall semester, sp = spring semester, su = summer semester)
