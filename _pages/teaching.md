@@ -13,5 +13,4 @@ I've taught the following courses at the undergraduate level:
 | International Economics      | su2017, su2018                                      |
 || Principles of Microeconomics | sp2016                                             ||
 
-
 (f = fall semester, sp = spring semester, su = summer semester)
