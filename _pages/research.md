@@ -5,7 +5,7 @@ permalink: /research/
 description: 
 ---
 
-# Job Market Paper
+## Job Market Paper
 
 ### [Banking on bubbles: credit creation and the persistence of bull markets](https://drive.google.com/file/d/1ZteOGfCt_-VXa2qAfsjicXbliVqRMG8v/view?usp=sharing)
 
