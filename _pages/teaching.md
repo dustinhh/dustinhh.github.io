@@ -5,7 +5,7 @@ title: teaching
 description: 
 ---
 
-I've taught the following courses at the undergraduate level:
+I've taught the following courses at the undergraduate level (links to the most recent syllabus are provided for each course):
 
 | Course                        | Semester(s)                                         |
 |-------------------------------|-----------------------------------------------------|
