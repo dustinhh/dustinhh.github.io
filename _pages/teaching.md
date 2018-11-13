@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: experience
+title: teaching experience
+description: 
 ---
 
 I've taught the following courses at the undergraduate level:
