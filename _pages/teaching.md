@@ -21,8 +21,8 @@ description:
     google.charts.load('current', {
         'packages': ['bar']
       });
+ 
       google.charts.setOnLoadCallback(drawChart);
-
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
           ["Semester", "Hamalainen", "ECON Average"],
@@ -36,7 +36,6 @@ description:
           ["Spring 2018", 5.8, 5.1],
           ["Summer 2018", 5.4, 5.2],
         ]);
-
         var options = {
           chart: {
             title: 'Course Evaluations',
@@ -54,7 +53,6 @@ description:
           height: 400,
           colors: ['#5DADE2', '#7F8C8D']
         };
-
         var chart = new google.charts.Bar(document.getElementById('chart_div'));
 
         chart.draw(data, google.charts.Bar.convertOptions(options));
@@ -68,7 +66,7 @@ description:
             chart.draw(data, google.charts.Bar.convertOptions(options));
           }
         }
-      }
+      } 
       
 </script>
 
