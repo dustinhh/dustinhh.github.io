@@ -16,5 +16,5 @@ I've taught the following courses at the undergraduate level (links to the most 
 ## Summary of teaching evaluations
 (a complete set of teaching evaluations are available upon request)
 
-{% include eval1.html eval2.html %}
+{% include eval1.html %}
 
