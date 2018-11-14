@@ -17,6 +17,7 @@ description:
 (a complete set of teaching evaluations are available upon request)
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js">
+    
     google.charts.load('current', {
         'packages': ['bar']
       });
@@ -68,5 +69,6 @@ description:
           }
         }
       }
+      
 </script>
 
