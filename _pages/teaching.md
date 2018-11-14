@@ -25,3 +25,4 @@ The following figure shows the mean response to questions relating to instructor
 The following figure shows the mean response to questions relating to the effectiveness of the course overall; again, responses range from 1 (strongly disagree) to 6 (strongly agree). The survey questions relating to course effectiveness are: (1) The course objectives were clearly stated.; (2) The course objectives were met; (3) The course content was well organized; (4) The course materials were helpful in meeting course objectives; (5) Assignments and exams reflected what was covered in the course; (6) I learned a great deal in this course; (7) Overall, this was an effective course. A complete set of teaching evaluations is available upon request.
 
 
+{% include eval2.html %}
