@@ -13,8 +13,8 @@ I've taught the following courses at the undergraduate level (links to the most 
  International Economics       | su2017, [su2018](https://drive.google.com/open?id=19bNOvuJUcOuJfaMDThSlAZXRHv24Qy5o)
  Principles of Microeconomics | [sp2016](https://drive.google.com/open?id=1djcMuDbCogYAHh9QyxppcZCMu40k0WLL)
 
-## Summary of teaching evaluations
+ Summary of teaching evaluations
 (a complete set of teaching evaluations are available upon request)
 
-{% include eval1.html %}
 
+{% include eval1.html %}
