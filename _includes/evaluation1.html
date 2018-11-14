@@ -21,22 +21,12 @@ google.charts.load('current', {
      ["Summer 2018", 5.4, 5.2]
    ]);
    var options = {
-     chart: {
-       title: 'Student Evaluations',
-       subtitle: 'Instructor Questions (2015-2018)',
-     },
+     chart: {title: 'Student Evaluations', subtitle: 'Instructor Questions (2015-2018)'},
      bars: 'horizontal', // Required for Material Bar Charts.
      hAxis: {
        format: 'decimal',
-       viewWindow: {
-         min: 4.5,
-         max: 6
-       },
-       ticks: [4.5, 5.0, 5.5, 6]
-     },
-     height: 400,
-     colors: ['#5DADE2', '#7F8C8D']
-   };
+       viewWindow: {min: 4.5, max: 6},ticks: [4.5, 5.0, 5.5, 6]},height: 400,colors: ['#5DADE2', '#7F8C8D']};
+  
    var chart = new google.charts.Bar(document.getElementById('chart_div'));
    chart.draw(data, google.charts.Bar.convertOptions(options));
    var btns = document.getElementById('btn-group');
