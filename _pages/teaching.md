@@ -16,10 +16,8 @@ description:
 #### Summary of teaching evaluations
 (a complete set of teaching evaluations are available upon request)
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<div id="chart_div"></div>
-
-      google.charts.load('current', {
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js">
+    google.charts.load('current', {
         'packages': ['bar']
       });
       google.charts.setOnLoadCallback(drawChart);
@@ -70,3 +68,5 @@ description:
           }
         }
       }
+</script>
+
