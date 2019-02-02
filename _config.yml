@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 name: Dustin Hamalainen
 email: Dustin.Hamalainen@economics.utah.edu
-description: Financial macroeconomist with expertise in applied econometrics, forecasting, and macroeconomic modeling.> # this means to ignore newlines until "url:"
+description:  ># this means to ignore newlines until "url:"
 
 footer_text: 
 
