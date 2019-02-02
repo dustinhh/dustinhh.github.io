@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 name: Dustin Hamalainen
 email: Dustin.Hamalainen@economics.utah.edu
-description:  ># this means to ignore newlines until "url:"
+description:  > # this means to ignore newlines until "url:"
 
 footer_text: 
 
