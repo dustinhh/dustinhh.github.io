@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 name: Dustin Hamalainen
 email: Dustin.Hamalainen@economics.utah.edu
-description: > # this means to ignore newlines until "url:"
+description: Financial macroeconomist with expertise in applied econometrics, forecasting, and macroeconomic modeling.> # this means to ignore newlines until "url:"
 
 footer_text: 
 
@@ -16,7 +16,7 @@ last_updated: #September 22, 2018 # leave blank if you don't want to display las
 # -----------------------------------------------------------------------------
 github_username: dustinhh # your GitHub user name
 twitter_username: # your Twitter handle
-linkedin_username: dustin-hamalainen-761447170 # your LinkedIn user name
+linkedin_username: dustin-hamalainen # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 contact_note: Email is the best way to reach me
@@ -51,6 +51,7 @@ plugins:
     - jekyll-paginate
     - jekyll/scholar
     - jemoji
+    - jekyll-seo-tag
 
 # Jekyll-Scholar
 scholar:
