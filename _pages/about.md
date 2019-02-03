@@ -19,4 +19,3 @@ social: true
 
 I'm a Ph.D. candidate in economics at the University of Utah. My research interests include financial macroeconomics, business cycles, financial stability, and monetary theory.
 
-I will be available for interviews at the 2019 ASSA meetings in Atlanta.
