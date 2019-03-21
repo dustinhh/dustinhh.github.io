@@ -5,6 +5,8 @@ title: teaching
 description: 
 ---
 
+
+## experience
 I've taught the following courses at the undergraduate level (links to the most recent syllabus are provided for each course):
 
  Course                        | Semester(s)                                         
@@ -16,8 +18,10 @@ I've taught the following courses at the undergraduate level (links to the most 
 #### sample syllabi for other courses:
 [__Econometrics__](https://drive.google.com/file/d/183l0T59HO4IEGAhSFBIUc2tuBFcQJbZZ)
 
-#### teaching philosophy
-[__teaching philosophy statement__](https://drive.google.com/file/d/1ZMLLImsuHl01s2bXDnG7vcSjojKFaM1N)
+## effectiveness
+
+### teaching philosophy
+[teaching philosophy statement](https://drive.google.com/file/d/1ZMLLImsuHl01s2bXDnG7vcSjojKFaM1N)
 
 ### summary of teaching evaluations
 
