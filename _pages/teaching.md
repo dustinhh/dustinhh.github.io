@@ -13,8 +13,8 @@ I've taught the following courses at the undergraduate level (links to the most 
  International Economics       | su2017, [su2018](https://drive.google.com/open?id=19bNOvuJUcOuJfaMDThSlAZXRHv24Qy5o)
  Principles of Microeconomics | [sp2016](https://drive.google.com/open?id=1djcMuDbCogYAHh9QyxppcZCMu40k0WLL)
 
-#### sample syllabi for other courses
-[Econometrics](https://drive.google.com/file/d/183l0T59HO4IEGAhSFBIUc2tuBFcQJbZZ)
+sample syllabi for other courses:
+[__Econometrics__](https://drive.google.com/file/d/183l0T59HO4IEGAhSFBIUc2tuBFcQJbZZ)
 
 ### teaching philosophy
 Teaching philosophies are products of our own experiences and are shaped by our perceptions of the purpose of education in general. In my view, the purpose of education is not to produce cogs for the machines of the future, nor is it to provide a cookbook of ready-made skills. Instead, education should help students develop a framework for navigating the social world, one which enables them to separate fact from fiction and to communicate their ideas with clarity and confidence. Fundamentally, the goal of education should be to promote intellectual independence and curiosity, a goal which is achieved in part by pushing students out of their comfort zones and challenging them to reach their full potential.
