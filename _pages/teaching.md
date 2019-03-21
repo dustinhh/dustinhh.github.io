@@ -11,20 +11,22 @@ I've taught the following courses at the undergraduate level (links to the most 
 
  Course                        | Semester(s)                                         
 -------------------------------|-----------------------------------------------------
- Money & Banking               | f2015, sp2016, su2016, f2016, sp2017, f2017, [sp2018](https://drive.google.com/open?id=1-KsqTI43-Aj7o74THp9516iQazxGA0Fp)
- International Economics       | su2017, [su2018](https://drive.google.com/open?id=19bNOvuJUcOuJfaMDThSlAZXRHv24Qy5o)
- Principles of Microeconomics | [sp2016](https://drive.google.com/open?id=1djcMuDbCogYAHh9QyxppcZCMu40k0WLL)
+ Money & Banking               | f2015, sp2016, su2016, f2016, sp2017, f2017, [__sp2018__](https://drive.google.com/open?id=1-KsqTI43-Aj7o74THp9516iQazxGA0Fp)
+ International Economics       | su2017, [__su2018__](https://drive.google.com/open?id=19bNOvuJUcOuJfaMDThSlAZXRHv24Qy5o)
+ Principles of Microeconomics | [__sp2016__](https://drive.google.com/open?id=1djcMuDbCogYAHh9QyxppcZCMu40k0WLL)
 
 #### Sample syllabi for other courses:
-[Econometrics](https://drive.google.com/file/d/183l0T59HO4IEGAhSFBIUc2tuBFcQJbZZ)
+[__Econometrics (undergraduate; cross-section/panel data)__](https://drive.google.com/file/d/183l0T59HO4IEGAhSFBIUc2tuBFcQJbZZ)
+[__Time Series Econometrics (undergraduate)__](https://drive.google.com/file/d/1rYWNXDUeV1hKKUpbC3igvy5kO6xh7z-z)
 
 
 
 ### teaching effectiveness
+
 [Teaching Philosophy Statement](https://drive.google.com/file/d/1ZMLLImsuHl01s2bXDnG7vcSjojKFaM1N)
 
 
-#### summary of teaching evaluations
+#### Summary of teaching evaluations (2015-2018)
 
 Instructor questions:
 
