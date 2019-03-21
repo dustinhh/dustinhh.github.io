@@ -17,6 +17,7 @@ I've taught the following courses at the undergraduate level (links to the most 
 
 #### Sample syllabi for other courses:
 [__Econometrics (undergraduate; cross-section/panel data)__](https://drive.google.com/file/d/183l0T59HO4IEGAhSFBIUc2tuBFcQJbZZ)
+
 [__Time Series Econometrics (undergraduate)__](https://drive.google.com/file/d/1rYWNXDUeV1hKKUpbC3igvy5kO6xh7z-z)
 
 
