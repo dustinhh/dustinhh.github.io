@@ -5,17 +5,22 @@ title: teaching
 description: 
 ---
 
+### current semester (fall 2019)
 
-### teaching experience
+Courses currently being taught:
+
+ECO 100: Introduction to Economic Principles (Franklin & Marshall College)
+
+### previous experience
 I've taught the following courses at the undergraduate level (links to the most recent syllabus are provided for each course):
 
- Course                        | Semester(s)                                         
+ Course                 | Institution       | Semester(s)                                         
 -------------------------------|-----------------------------------------------------
- Money & Banking               | f2015, sp2016, su2016, f2016, sp2017, f2017, [sp2018](https://drive.google.com/open?id=1-KsqTI43-Aj7o74THp9516iQazxGA0Fp)
- International Economics       | su2017, [su2018](https://drive.google.com/open?id=19bNOvuJUcOuJfaMDThSlAZXRHv24Qy5o)
- Principles of Microeconomics | [sp2016](https://drive.google.com/open?id=1djcMuDbCogYAHh9QyxppcZCMu40k0WLL)
+ Money & Banking          | U of Utah   | f2015, sp2016, su2016, f2016, sp2017, f2017, [sp2018](https://drive.google.com/open?id=1-KsqTI43-Aj7o74THp9516iQazxGA0Fp)
+ International Economics    | U of Utah    | su2017, [su2018](https://drive.google.com/open?id=19bNOvuJUcOuJfaMDThSlAZXRHv24Qy5o)
+ Principles of Microeconomics  | U of Utah  | [sp2016](https://drive.google.com/open?id=1djcMuDbCogYAHh9QyxppcZCMu40k0WLL)
 
-#### Sample syllabi for other courses:
+### sample syllabi for other courses:
 [Econometrics (undergraduate; cross-section/panel data)](https://drive.google.com/file/d/183l0T59HO4IEGAhSFBIUc2tuBFcQJbZZ)
 
 [Time Series Econometrics (undergraduate)](https://drive.google.com/file/d/1rYWNXDUeV1hKKUpbC3igvy5kO6xh7z-z)
@@ -27,7 +32,7 @@ I've taught the following courses at the undergraduate level (links to the most 
 [Teaching Philosophy Statement](https://drive.google.com/file/d/1ZMLLImsuHl01s2bXDnG7vcSjojKFaM1N)
 
 
-#### Summary of teaching evaluations (2015-2018)
+### summary of teaching evaluations (2015-2018)
 
 Instructor questions:
 
