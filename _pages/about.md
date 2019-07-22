@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Dustin</strong> Hamalainen
-description: <a href="">Ph.D. Candidate, University of Utah</a> 
+title: <strong>Dustin</strong> Hamalainen, Ph.D.
+description: <a href="https://www.fandm.edu/dustin-hamalainen">Visiting Assistant Professor, Franklin & Marshall College</a> 
 
 profile:
   align: right
@@ -17,5 +17,5 @@ news: false
 social: true
 ---
 
-I'm a Ph.D. candidate in economics at the University of Utah. My research interests include financial macroeconomics, business cycles, financial stability, and monetary theory.
+I'm currently a Visiting Assistant Professor in the Department of Economics at Franklin and Marshall College where I teach Principles of Economics, Intermediate Macroeconomics, and Econometrics. My research interests include financial macroeconomics, business cycles, financial stability, and monetary theory.
 
