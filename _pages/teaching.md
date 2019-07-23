@@ -39,6 +39,6 @@ I've taught the following courses at the undergraduate level (links to the most 
 
      The following figure shows the mean response to questions relating to the effectiveness of the course overall; again, responses range from 1 (strongly disagree) to 6 (strongly agree). The survey questions relating to course effectiveness are: (1) "the course objectives were clearly stated;" (2) "the course objectives were met;" (3) "the course content was well organized;" (4) "the course materials were helpful in meeting course objectives;" (5) "assignments and exams reflected what was covered in the course;" (6) "I learned a great deal in this course;" (7) "overall, this was an effective course."
     
-     {% include eval2_2.html %}
+     <!--- {% include eval2_2.html %} --->
  
      A complete set of teaching evaluations is available upon request.
