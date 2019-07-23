@@ -43,23 +43,10 @@ I've taught the following courses at the undergraduate level (links to the most 
     A complete set of teaching evaluations is available upon request.
 
 <ul>
-  <li>Level 1  
+  <li>
     <ul>
-      <li>Level 2</li>
-      <li>Level 3
-        <ul>
-          <li>Level 4</li>
-          <li>Level 5
-            <ul>
-              <li>Level 6</li>
-              <li>Level 7
-                <ul>
-                  <li>Level 8</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-        </ul>
+     <li>Course questions:<p>
+      "The following figure shows the mean response to questions relating to instructor effectiveness for each semester that I taught courses; the student survey includes statements about the instructor’s effectiveness, which are evaluated on a scale of 1 (strongly disagree) to 6 (strongly agree). The survey questions on instructor effectiveness are: (1) “the instructor was organized;” (2) “the instructor presented course content effectively;” (3) “the instructor created/supported a classroom environment that was respectful;” (4) “the instructor demonstrated thorough knowledge of the subject”; (5) “as appropriate, the instructor encouraged questions and opinions;” (6) “the instructor was available for consultation with students;” (7) “overall, this was an effective instructor.” The department average (for all courses offered by the economics department) is provided for reference."</p>
       </li>
     </ul>
   </li>
