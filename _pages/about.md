@@ -8,10 +8,12 @@ profile:
   align: right
   image: img.jpg
   address: >
-    <p>Department of Economics</p>
-    <p>260 Central Campus Dr.</p>
-    <p>CKGC, Rm. 4100</p>
-    <p>SLC, UT 84112</p>
+    <p>F&M Economics</p>
+    <p>P.O. BOX 3003</p>
+    <p>Lancaster, PA 17604-3003</p>
+    <p></p>
+    <p>Office: (717) 358-4542</p>
+    <p>Mobile: (207) 542-9669</p>
 
 news: false
 social: true
