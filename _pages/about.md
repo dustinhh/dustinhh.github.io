@@ -12,7 +12,7 @@ profile:
     <p>P.O. BOX 3003</p>
     <p>Lancaster, PA</p>
     <p>17604-3003</p>
-    <br><br/>
+    <br>
     <p>Office: (717) 358-4542</p>
     <p>Mobile: (207) 542-9669</p>
 
