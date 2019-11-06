@@ -17,8 +17,9 @@ The traditional approach to financial theory assumes that any profitable specula
 <img align="right" src="/assets/img/SecurityDemand.png" width="300" height="192">
 In this paper, I focus on the speculative positions of insitutional investors and their responsiveness to past returns. If asset price expectations become more responsive to price changes than to changes in fundamentals, a period of destabilizing speculation could arise, particularly when large institutional investors are involved. I measure the responsiveness of institutional investor's equity positions to price changes when controlling for changes in fundamentals. Using a group-lasso approach, I estimate time-varying elasticities equity share demand on portfolio-level data and find procyclical changes in the investors' responsiveness to price changes, which provides additional empirical support to the notion that speculation is destabilizing.
 
-<img align="center" src="/assets/img/TVElasticity.png" width="400" height="205">
-   
+<p align="center">
+<img src="/assets/img/TVElasticity.png" width="400" height="205">
+ </p>
 3. With Korkut Ert&uuml;rk. *Margin lending, monetary circulation, and asset price cycles*.
 
 Existing literature shows structural changes in the relationship between monetary circulation and asset prices. We supplement this finding by showing that a cyclical relationship exists as well for multiple measures of monetary ciculation.
