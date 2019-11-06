@@ -15,7 +15,7 @@ The traditional approach to financial theory assumes that any profitable specula
 
 2.
 <img align="right" src="/assets/img/SecurityDemand.png" width="300" height="192">
-In this paper, I estimate a time-varying demand elasticity for equity shares from portfolio-level data on institutional investors. I find pro-cyclical changes in the responsiveness of equity positions to price changes when controlling for fundamentals.
+In this paper, I measure the responsiveness of institutional investor's equity positions to price changes when controlling for changes in fundamentals. Using a group-lasso approach, I estimate time-varying elasticities equity share demand on portfolio-level data and find procyclical changes in the investors' responsiveness to price changes, which provides additional empirical support to the notion that speculation is destabilizing.
 
 <img src="/assets/img/TVElasticity.png" width="400" height="205">
    
