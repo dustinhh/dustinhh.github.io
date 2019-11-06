@@ -20,7 +20,8 @@ In this paper, I focus on the speculative positions of insitutional investors an
 <p align="center">
 <img src="/assets/img/TVElasticity.png" width="400" height="205">
  </p>
-3. With Korkut Ert&uuml;rk. *Margin lending, monetary circulation, and asset price cycles*.
+ 
+3. With Korkut Ert&uuml;rk. *Margin lending, monetary circulation, and asset price cycles*
 
 Existing literature shows structural changes in the relationship between monetary circulation and asset prices. We supplement this finding by showing that a cyclical relationship exists as well for multiple measures of monetary ciculation.
 
