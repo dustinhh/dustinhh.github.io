@@ -16,7 +16,8 @@ The traditional approach to financial theory assumes that any profitable specula
 2.
 <img align="right" src="/assets/img/SecurityDemand.png" width="400" height="256">
 In this paper, I estimate a time-varying demand elasticity for equity shares from portfolio-level data on institutional investors. I find pro-cyclical changes in the responsiveness of equity positions to price changes when controlling for fundamentals.
-<img align="left" src="/assets/img/TVElasticity.png" width="400" height="156">
+
+<img align="center" src="/assets/img/TVElasticity.png" width="400" height="256">
    
 3. With Korkut Ert&uuml;rk. *Margin lending, monetary circulation, and asset price cycles*.
 
