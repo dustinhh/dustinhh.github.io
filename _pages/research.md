@@ -25,4 +25,5 @@ In this paper, I focus on the speculative positions of insitutional investors an
 Existing literature shows structural changes in the relationship between monetary circulation and asset prices. We supplement this finding by showing that a cyclical relationship exists as well for multiple measures of monetary ciculation.
 
 4. *Heterogeneous market sentiment and regime-switching stock returns* 
+
 Existing behavioral finance literature shows that speculation in financial markets can be destabilizing. In this paper, I provide further empirical evidence that speculation is destabilizing using a heterogeneous agent model with regime-switching returns.
