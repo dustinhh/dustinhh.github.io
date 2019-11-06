@@ -15,12 +15,12 @@ The traditional approach to financial theory assumes that any profitable specula
 
 2.
 <img align="right" src="/assets/img/SecurityDemand.png" width="400" height="256">
-
+In this paper, I estimate a time-varying demand elasticity for equity shares from portfolio-level data on institutional investors. I find pro-cyclical changes in the responsiveness of equity positions to price changes when controlling for fundamentals.
 <img align="left" src="/assets/img/TVElasticity.png" width="400" height="156">
-
-3.
    
-4. With Korkut Ert&uuml;rk. *Margin lending, monetary circulation, and asset price cycles*.
+3. With Korkut Ert&uuml;rk. *Margin lending, monetary circulation, and asset price cycles*.
 
 Existing literature shows structural changes in the relationship between monetary circulation and asset prices. We supplement this finding by showing that a cyclical relationship exists as well for multiple measures of monetary ciculation.
 
+4. *Heterogeneous market sentiment and regime-switching stock returns* 
+Existing behavioral finance literature shows that speculation in financial markets can be destabilizing. In this paper, I provide further empirical evidence that speculation is destabilizing using a heterogeneous agent model with regime-switching returns.
